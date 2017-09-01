@@ -1,5 +1,4 @@
-![digiinote]
-(https://github.com/abruckman/digiinote/blob/development/public/images/header-smaller.png?raw=true)
+![digiinote](https://github.com/abruckman/digiinote/blob/development/public/images/header-smaller.png?raw=true)
 
 
 

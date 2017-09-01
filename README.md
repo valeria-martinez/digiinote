@@ -94,7 +94,7 @@ Site will be live at https://localhost:3000/
 
 Our team noticed a trend of circulating images on our cohort’s Slack Channel that had various handwritten notes on whiteboards, post-its, and/or notebook paper that were impossible to keep track of. We integrated the Google Vision, Google Drive, and Google OAuth API to build a user-friendly application that digitizes handwritten notes.
 
-#####Languages and technologies:
+##### Languages and technologies:
 * Ruby on Rails
 * Materialize
 * HTML/CSS

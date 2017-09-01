@@ -15,7 +15,7 @@
 ## Description
 Digiinote is a Rails app that takes in an uploaded image of handwritten notes and digitizes them directly into a Google Drive document. After each submission, you are able to view the document on an embedded Google Drive
 
-##Usage
+## Usage
 * Visit the digiinote main page and upload an image
 ![](https://github.com/abruckman/digiinote/blob/development/public/images/demo_upload_digii.gif?raw=true)
 
